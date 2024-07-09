@@ -29,7 +29,7 @@ export const LangToggle = () => {
             enabled ? "translate-x-1" : "translate-x-0"
           } h-8 w-8 flex justify-center items-center transform rounded-full bg-white`}
         >
-          {enabled ? "en" : "അ"}
+          {enabled ? "en" : "fr"}
         </span>
         <span className={`${enabled && "hidden"} ml-1`}>en</span>
       </Switch>
