@@ -52,7 +52,7 @@ export const Form = (props: FormProps) => {
       name: "",
       email: "",
       phone: "",
-      Batch: "Stream 1",
+      Batch: "Weekday Batch",
     },
     validationSchema: RegisterSchema,
     onSubmit: (values) => {
@@ -142,7 +142,7 @@ export const Form = (props: FormProps) => {
               id={`stream-${theme}`}
               name="stream"
               theme={theme}
-              label={t["Your preferred stream"]}
+              label={t["Your preferred Batch"]}
               onChange={(e) => {
                 formik.setFieldValue("stream", e);
               }}
