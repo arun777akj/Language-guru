@@ -1,4 +1,4 @@
-export const ml: { [key: string]: string } = {
+export const fr: { [key: string]: string } = {
   "Copyright: Mission KAS": "Copyright: Language Guru",
   "hero-t": "Formation intelligente et ciblée pour réussir à l'examen de langue.",
   "feature-t": "Un plan d'apprentissage bien structuré pour transformer vos rêves en réalité",
