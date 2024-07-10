@@ -38,7 +38,7 @@ const words = [
   "Your name",
   "Email address",
   "Phone number",
-  "Your preferred stream",
+  "Your preferred Batch",
   "Join us now",
 ];
 
@@ -52,7 +52,7 @@ export const Form = (props: FormProps) => {
       name: "",
       email: "",
       phone: "",
-      stream: "Stream 1",
+      Batch: "Stream 1",
     },
     validationSchema: RegisterSchema,
     onSubmit: (values) => {
