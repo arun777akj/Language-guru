@@ -3,27 +3,27 @@ import { CardItem } from "./CourseCard";
 export const prelims: CardItem[] = [
   {
     isPopular: true,
-    text: "7 Month Integrated Prelims cum Mains Batch",
+      text: "5 Month Integrated Daily batch",
   },
   {
-    text: "7 Month Integrated Prelims cum Mains Batch - For Working Professionals",
+    text: "7 Month Integrated Evening batch - For Working Professionals",
   },
   {
-    text: "Foundation Programme - For School & College Students",
+    text: "Foundation Programme(Weekend batch) - For understanding the basics",
   },
 ];
 
 export const series: CardItem[] = [
   {
-    text: "Mission KAS Prelims Test Series",
+    text: "Language Guru Exam mock test series",
   },
   {
-    text: "Mission KAS Mains Test Series",
+    text: "Language Guru Written Test Series",
   },
   {
-    text: "Mission KAS Integrated Prelims & Mains Test Series",
+    text: "Language Guru Integrated Written & Verbal Test Series",
   },
   {
-    text: "MAP : Mains Answer Writing Program",
+    text: "LAP : Language Answer Writing Program",
   },
 ];
