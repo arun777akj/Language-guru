@@ -34,5 +34,5 @@ export const ml: { [key: string]: string } = {
   "Mission KAS Integrated Prelims & Mains Test Series": "Séries de tests intégrées écrites et verbales Language Guru",
   "MAP : Mains Answer Writing Program": "LAP : Programme de rédaction de réponses en langue",
   "Ready to start?": "Prêt à commencer?",
-  "The path to a successful career starts here. Let us strive together to take you there.": "Le chemin vers une carrière réussie commence ici. Luttons ensemble pour vous y emmener."
+  "The path to a successful career starts here. Let us strive together to take you there.": "Le chemin vers une carrière réussie commence ici. Luttons ensemble pour vous y emmener.",
 };
