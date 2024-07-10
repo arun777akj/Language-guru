@@ -1,16 +1,16 @@
 export const streams = [
   {
-    name: "Stream 1",
-    description: "Direct appointment.",
+    name: "Weekday Batch",
+    description: "Daily classes on weekdays",
   },
   {
-    name: "Stream 2",
+    name: "Weekend Batch",
     description:
-      "Direct recruitment from among full members or approved probationers in any Government departments.",
+      " Classes on weekend",
   },
   {
-    name: "Stream 3",
+    name: "Evening Batch",
     description:
-      "Direct recruitment from among candidates holding 1st gazetted post.",
+      "Evening classes for working professionals or students",
   },
 ];
