@@ -1,6 +1,4 @@
 export const ml: { [key: string]: string } = {
-  Here is the French translation for the given text:
-{
   "Copyright: Mission KAS": "Copyright: Language Guru",
   "hero-t": "Formation intelligente et ciblée pour réussir à l'examen de langue.",
   "feature-t": "Un plan d'apprentissage bien structuré pour transformer vos rêves en réalité",
@@ -37,5 +35,4 @@ export const ml: { [key: string]: string } = {
   "MAP : Mains Answer Writing Program": "LAP : Programme de rédaction de réponses en langue",
   "Ready to start?": "Prêt à commencer?",
   "The path to a successful career starts here. Let us strive together to take you there.": "Le chemin vers une carrière réussie commence ici. Luttons ensemble pour vous y emmener."
-},
 };
