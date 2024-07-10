@@ -15,7 +15,7 @@ export const SocialHeader = () => {
       </div>
       <div className="flex justify-center">
         <a
-          href="https://www.youtube.com/channel/UC9urjbvYBqLWfGFmSrfOlAw"
+          href="https://www.youtube.com/@LanguageGuruonlinecoachingwebs"
           target="blank"
           rel="noreferrer"
           className="mr-6 text-gray-600"
@@ -24,7 +24,7 @@ export const SocialHeader = () => {
           <YoutubeIcon />
         </a>
         <a
-          href="https://t.me/missionkasonline"
+          href="https://t.me/LanguageGurur"
           target="blank"
           rel="noreferrer"
           className="mr-6 text-gray-600"
@@ -51,7 +51,7 @@ export const SocialHeader = () => {
           <FacebookIcon />
         </a>
         <a
-          href="https://twitter.com/missionkas"
+          href="https://x.com/Language_Guru0?t=8m_XYBztkMrTrlARgejM4w&s=09"
           target="blank"
           rel="noreferrer"
           className="mr-6 text-gray-600"
@@ -60,7 +60,7 @@ export const SocialHeader = () => {
           <TwitterIcon />
         </a>
         <a
-          href="https://wa.me/918848498679?text="
+          href="https://x.com/Language_Guru0?t=8m_XYBztkMrTrlARgejM4w&s=09"
           target="blank"
           rel="noreferrer"
           className="text-gray-600"
