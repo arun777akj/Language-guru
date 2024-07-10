@@ -4,7 +4,7 @@ import { Form } from "../Form";
 export const Register = () => {
   const t = useLocale([
     "Ready to start?",
-    "The path to a successful career starts here. Let us strive together to take you there.",
+    "The path to learn language starts here. Let us strive together to take you there.",
   ]);
   return (
     <section id="register" className="relative">
@@ -17,7 +17,7 @@ export const Register = () => {
             <p className="max-w-2xl mt-4 text-xl text-gray-500 text-start lg:text-center lg:mx-auto">
               {
                 t[
-                  "The path to a successful career starts here. Let us strive together to take you there."
+                  "The path to learn language starts here. Let us strive together to take you there."
                 ]
               }
             </p>
