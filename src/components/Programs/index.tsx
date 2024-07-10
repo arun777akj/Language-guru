@@ -20,7 +20,7 @@ export const Programs = () => {
       <div className="grid grid-cols-1 gap-10 md:grid-cols-2">
         <CourseCard
           items={prelims}
-          title="Integrated Prelims cum Mains"
+          title="Integrated Written and verbal exams"
           subTitle="Regular and Online batches available"
         />
         <CourseCard
