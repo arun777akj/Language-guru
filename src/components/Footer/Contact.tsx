@@ -6,7 +6,7 @@ import { PhoneIcon } from "../icons/PhoneIcon";
 export const Contact = () => {
   const t = useLocale([
     "CONTACT",
-    "AR building, D-28, D-street, Sasthamangalam, Trivandrum, Kerala 695010",
+    "48 Kelvin Avenue , Kitchener , Ontario N2M 3N8",
   ]);
   return (
     <div>
@@ -18,7 +18,7 @@ export const Contact = () => {
         <p className="col-span-7 text-left">
           {
             t[
-              "AR building, D-28, D-street, Sasthamangalam, Trivandrum, Kerala 695010"
+              "48 Kelvin Avenue , Kitchener , Ontario N2M 3N8"
             ]
           }
         </p>
@@ -26,12 +26,12 @@ export const Contact = () => {
       <div className="grid grid-cols-8 mb-4 md:justify-start">
         <MailIdIcon />
         <p className="col-span-7 text-left whitespace-pre-wrap">
-          missionkasenquiry@gmail.com
+          contact.languageguru@gmail.com
         </p>
       </div>
       <div className="grid grid-cols-8 mb-4 md:justify-start">
         <PhoneIcon />
-        <p className="col-span-7 text-left">+91-884-8498679</p>
+        <p className="col-span-7 text-left">+1(382)885-0508</p>
       </div>
     </div>
   );
