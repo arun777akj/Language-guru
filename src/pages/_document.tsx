@@ -7,23 +7,23 @@ class MyDocument extends Document {
           {/* <!-- Primary Meta Tags --> */}
           <meta
             name="title"
-            content="Mission KAS - Start your KAS preparation with us"
+            content="Language Guru - Start your Language preparation with us"
           />
           <meta
             name="description"
-            content="Smart and focused training to the aspirants to succeed in the KAS examination."
+            content="Smart and focused training to succeed in the Language examination."
           />
 
           {/* <!-- Open Graph / Facebook --> */}
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://missionkas.com/" />
+          <meta property="og:url" content="https://languageguru.ca/" />
           <meta
             property="og:title"
-            content="Mission KAS - Start your KAS preparation with us"
+            content="Language Guru - Start your Language exam preparation with us"
           />
           <meta
             property="og:description"
-            content="Smart and focused training to the aspirants to succeed in the KAS examination."
+            content="Smart and focused coaching to succeed in the Language examination."
           />
           <meta property="og:image" content="../../public/Images/summary_image.png" />
 
@@ -32,11 +32,11 @@ class MyDocument extends Document {
           <meta property="twitter:url" content="https://missionkas.com/" />
           <meta
             property="twitter:title"
-            content="Mission KAS - Start your KAS preparation with us"
+            content="Language Guru - Start your Language preparation with us"
           />
           <meta
             property="twitter:description"
-            content="Smart and focused training to the aspirants to succeed in the KAS examination."
+            content="Smart and focused coaching to succeed in the Language examination."
           />
           <meta property="twitter:image" content="../../public/Images/summary_image.png" />
 
