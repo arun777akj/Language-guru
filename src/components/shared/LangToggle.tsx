@@ -7,7 +7,7 @@ export const LangToggle = () => {
 
   const handleChange = () => {
     if (enabled) {
-      replace("/", "/", { locale: "ml" });
+      replace("/", "/", { locale: "fr" });
     } else {
       replace("/", "/", { locale: "en" });
     }
