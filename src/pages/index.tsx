@@ -16,7 +16,7 @@ const App: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Mission KAS - Start your KAS preparation with us</title>
+        <title>Language Guru - Start your Language preparation with us</title>
       </Head>
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=GTM-KNZFHW7"
@@ -38,7 +38,7 @@ const App: NextPage = () => {
 
         <div className="fixed z-50 bottom-3 right-2 lg:bottom-5 lg:right-5">
           <a
-            href="https://wa.me/918848498679?text="
+            href="https://wa.me/13828850508?text="
             target="_blank"
             rel="noreferrer"
             className="flex items-center justify-center p-2 transition duration-200 ease-in border border-white rounded-full shadow-2xl bg-emerald-600 hover:bg-emerald-700 active:shadow-lg mouse focus:outline-none"
