@@ -52,7 +52,7 @@ export const Form = (props: FormProps) => {
       name: "",
       email: "",
       phone: "",
-      Batch: "Weekday Batch",
+      stream: "Weekday Batch",
     },
     validationSchema: RegisterSchema,
     onSubmit: (values) => {
