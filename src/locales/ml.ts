@@ -1,5 +1,17 @@
 export const fr: { [key: string]: string } = {
-  "Copyright: Mission KAS": "Copyright: Language Guru",
+  "Register now": "Inscrivez-vous maintenant",
+  "Your name": "Votre nom",
+  "Email address": "Adresse e-mail",
+  "Phone number": "Numéro de téléphone",
+  "Your preferred stream": "Votre cours préféré",
+  "Join us now": "Rejoignez-nous maintenant",
+  "USEFUL LINKS": "LIENS UTILES",
+  "CONTACT": "CONTACT",
+  "Home": "Accueil",
+  "About": "À propos",
+  "Programs": "Programmes",
+  "Register": "S'inscrire",
+  "Copyright: Mission KAS": "Droits d'auteur : Guru des langues",
   "hero-t": "Formation intelligente et ciblée pour réussir à l'examen de langue.",
   "feature-t": "Un plan d'apprentissage bien structuré pour transformer vos rêves en réalité",
   "feature-d": "Coaching intensif avec plus de 500 heures de cours en direct, séries de tests écrits et verbaux et mentorat couvrant l'ensemble du programme de l'examen",
@@ -35,4 +47,6 @@ export const fr: { [key: string]: string } = {
   "MAP : Mains Answer Writing Program": "LAP : Programme de rédaction de réponses en langue",
   "Ready to start?": "Prêt à commencer?",
   "The path to a successful career starts here. Let us strive together to take you there.": "Le chemin vers une carrière réussie commence ici. Luttons ensemble pour vous y emmener.",
+  
 };
+
