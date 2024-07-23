@@ -23,7 +23,7 @@ export const LangToggle = () => {
           enabled ? "bg-emerald-500" : "bg-teal-500"
         } relative inline-flex h-8 w-14 text-xs items-center rounded-full`}
       >
-        <span className={`${!enabled && "hidden"} ml-2`}>അ</span>
+        <span className={`${!enabled && "hidden"} ml-2`}>fr</span>
         <span
           className={`${
             enabled ? "translate-x-1" : "translate-x-0"
