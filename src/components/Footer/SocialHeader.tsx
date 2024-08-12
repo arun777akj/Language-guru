@@ -33,7 +33,7 @@ export const SocialHeader = () => {
           <TelegramIcon />
         </a>
         <a
-          href="https://www.instagram.com/missionkasonline/"
+          href="https://www.instagram.com/language_guru2"
           target="blank"
           rel="noreferrer"
           className="mr-6 text-gray-600"
@@ -42,7 +42,7 @@ export const SocialHeader = () => {
           <InstagramIcon />
         </a>
         <a
-          href="https://www.facebook.com/MissionKASonline/"
+          href="https://www.facebook.com/profile.php?id=61563793296992"
           target="blank"
           rel="noreferrer"
           className="mr-6 text-gray-600"
@@ -60,7 +60,7 @@ export const SocialHeader = () => {
           <TwitterIcon />
         </a>
         <a
-          href="https://x.com/Language_Guru0?t=8m_XYBztkMrTrlARgejM4w&s=09"
+          href="tel:+13828850508"
           target="blank"
           rel="noreferrer"
           className="text-gray-600"
